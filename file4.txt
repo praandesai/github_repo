@@ -1,3 +1,5 @@
 Hello this is git file 4
 
 added by another_user by cloing repo from git hub on another directory in local system
+
+line added from sample_prject
